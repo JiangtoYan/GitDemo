@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Leakcanary/Leakcanary.iml" filepath="$PROJECT_DIR$/Leakcanary/Leakcanary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/appcompat_v7/appcompat_v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh_library/pulltorefresh_library.iml" filepath="$PROJECT_DIR$/pulltorefresh_library/pulltorefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sccp_library/sccp_library.iml" filepath="$PROJECT_DIR$/sccp_library/sccp_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_social_library/umeng_social_library.iml" filepath="$PROJECT_DIR$/umeng_social_library/umeng_social_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yisai.iml" filepath="$PROJECT_DIR$/yisai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yisai/yisai-yisai.iml" filepath="$PROJECT_DIR$/yisai/yisai-yisai.iml" />
+    </modules>
+  </component>
+</project>

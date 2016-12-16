@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_cdd1e8b778133341ff3593db7fef1b001e6ca3ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2ad68a174c99a3cefaecc70d0da7681b276ae97f">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_2f2eb305cf34d6b4493799d08bc0ab17f8da63f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="301e43b22403ab47eab75a8ecdff80d697bc9289">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_c5bf2de373f5f96167a608e778947717700683d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\isoviewer-1.0-RC-27.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f374d6079dfe0fcabe619a8b18337faefd4d0b0c">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\isoviewer-1.0-RC-27_fb99565e22b2eb1c9bd5c9f4f85d823b4af01a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_facebook_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80ff87d138ae32cfe473b786851e78a841933a82">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_facebook_1_a8cfa78b1d202e69a833b80443fcef461f49d348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_shake.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34e94b3100ce4546b907460e725f9eeb13847c96">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_shake_a9fe8fec6454bc7498fc439354404c95d644c129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_yixin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ab67f141d00be37014d7d60eb24ba2d745af6ec">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_yixin_2_62aed246a1b12eb0f744aa3e1f81b2e16874faee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_renren_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01397a3a91b34a77c85688d65a0027bd56469b37">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_renren_1_1f3f710cde3a4167f267359161a2e5afae2d66a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="165f0fcf6b26240f92acb29bb2c5bd6fa03e36b6">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_ceab660998a7d608b5846cc735cd44afb5260154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_AtFriends.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c43d5b87ee29dc2179e9b46877cc2ace4ef96b63">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_AtFriends_6d7623a4c44aef6dc70cd90b213ec030661a7f55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="157dd4aa07dfd371275b1fae8d9cc2ead7b2da54">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_3a69d79aa44599ec0c92c6dfde333b85cc35b120\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_foursquare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a5e2e86becf58baaea05cc5f48f45e67ba77ddff">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_foursquare_e098b29b5a934aff4e6c821e961617cec841986e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_sms.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dcef3560bca4260897ee9c9d82512357d153b538">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_sms_c117072b86bcfdda704de51a5d3850737818b399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\wup-1.0.0-SNAPSHOT_20f621c2655030b8199f36138ed5568d5d702eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_evernote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1f72e82a3cf55f3e4486e0e8f606879e979d547e">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_evernote_a4b58b037374e7681b5cd7cb17f1a69ad986128c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5d4eb5beb3d77780ba56aaa7f56fb7f737af1149">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_196d4d2ab770137efb6f19cc769e1920bf42a24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\appcompat_v7\unspecified\jars\libs\android-support-v7-appcompat.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c13756ce58c0d0ee11316eb759ff492d89d08a3">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v7-appcompat_86eef5d492e94661c519e1dfb727d3362b475ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\qiniu-android-sdk-7.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7111ff719c8a78a6783e67a68732ed40ea4e8423">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\qiniu-android-sdk-7.0.3_61651c207c1b28d83e071a5f84c4b054e2b4c41a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_8f407cf0f78b437edec77bc9f0d7092d9453f6f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\alipaysecsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysecsdk_4eba990f0d932bea078ff10437fd2eedb532eb41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_ynote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f62ac92e6241e1cd4f4bb3d12fc5eed60296a432">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_ynote_83ee86e2210a5f9b136454676ccb38dee4da08bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\bugly_1.2.3.6__release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="17e11ddb24891a1233cc6acc1131fac604b307b1">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_1.2.3.6__release_e1eff385a4e26c7a1a885f28055479dd46318b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="165f0fcf6b26240f92acb29bb2c5bd6fa03e36b6">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v4_ceab660998a7d608b5846cc735cd44afb5260154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_like.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6685f6a75bcbdd81df8ce00a6cdd3215e3e1fcb0">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_like_2e8b590904e22e90dd61734e302eddf9fc357a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d78fd95cfbd4d8fb6f8726347fa3bda24d162ee">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.1.3_7aba63a3a6252e145ee31c452b2715137eab71da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_185a93abfd6b64607a1c4bd9eb346c068a4a3e78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\alipayutdid_8f407cf0f78b437edec77bc9f0d7092d9453f6f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d78fd95cfbd4d8fb6f8726347fa3bda24d162ee">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.1.3_7aba63a3a6252e145ee31c452b2715137eab71da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_like.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6685f6a75bcbdd81df8ce00a6cdd3215e3e1fcb0">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_like_2e8b590904e22e90dd61734e302eddf9fc357a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\ezmorph-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="01e55d2a0253ea37745d33062852fd2c90027432">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\ezmorph-1.0.6_b724817200c417fb83f6c68ba4d8bd592cfcadb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_sms.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dcef3560bca4260897ee9c9d82512357d153b538">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_sms_c117072b86bcfdda704de51a5d3850737818b399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\json-lib-2.3-jdk15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="77d1a48c7b68bcb0023d2943b4994ba0c768b447">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\json-lib-2.3-jdk15_717579c1f5896a251a2baffdae7f488b73907cb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_185a93abfd6b64607a1c4bd9eb346c068a4a3e78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ab78ed461deab5206c4cac6bbcf60e6d963cfd85">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\classes_66a8f9a93ff8c0a4674b944e95af3786a61606e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_whatsapp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a378baa7bc3d1ece09830e440c3dd998b280dc18">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_whatsapp_f06251084f02d91fea2469d3719d6a94a55c96a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_aca3814c20dab17bfcf3d40763f7de77c80a6f96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\json-lib-2.3-jdk15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77d1a48c7b68bcb0023d2943b4994ba0c768b447">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\json-lib-2.3-jdk15_717579c1f5896a251a2baffdae7f488b73907cb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\isoviewer-1.0-RC-27.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f374d6079dfe0fcabe619a8b18337faefd4d0b0c">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\isoviewer-1.0-RC-27_fb99565e22b2eb1c9bd5c9f4f85d823b4af01a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b029f9e54d8639614528d0c55ca403f4431d7515">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_3_0ac2aa8655716bd6dea62025143da5a8b8d5e330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7072bd908b79cdb7b7fe2d550c7755f0f6db4a17">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_2_c3989974b454f5e1d3b0c6f3e53a2d2325b82462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2ad68a174c99a3cefaecc70d0da7681b276ae97f">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_2f2eb305cf34d6b4493799d08bc0ab17f8da63f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3299434a5ced5ea151e559adb4b840b16bfb94df">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.4_6dbbeb390a3c03f8a4a384136c480f7124d74006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-beanutils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1f08524770aaeb3f9c24a565dc3c05ff1d7a7a0">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-beanutils_3fc0e0d2fa6d07e89471ceb7a27917bd02420832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-logging.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f029a2aefe2b3e1517573c580f948caac31b1056">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging_3f4fda6590faa8af92b18c8566f0dd9de25681bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_flickr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7533e58a8dc0571d39cb1c0a0dd240606e6c041e">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_flickr_42d2e00c82890c3a313b2f3c02bea371199cd320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_renren_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0458eaf94045cdfabc938f466753bbd4d19d63f9">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_renren_2_81274746d9ab606bf6922edb4a0719e2b6c431e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_scrshot.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9fed473367d3c37d2bed63fd5c7c1567cf47b9aa">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_scrshot_09c444bcca82a6c8d10abac8319b62bf4b11f890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\bugly_1.2.3.6__release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="17e11ddb24891a1233cc6acc1131fac604b307b1">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\bugly_1.2.3.6__release_e1eff385a4e26c7a1a885f28055479dd46318b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_actionbarview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5e7ee41354c2956caab9c0acba1158df01e7f49">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_actionbarview_3502ae793977419d1c932f7af5e10d98c1ad6836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="157dd4aa07dfd371275b1fae8d9cc2ead7b2da54">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_3a69d79aa44599ec0c92c6dfde333b85cc35b120\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-collections-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-collections-3.2.1_691086c798f5dbdf7180210931aa701ad3572e05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-beanutils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1f08524770aaeb3f9c24a565dc3c05ff1d7a7a0">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-beanutils_3fc0e0d2fa6d07e89471ceb7a27917bd02420832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7072bd908b79cdb7b7fe2d550c7755f0f6db4a17">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_2_c3989974b454f5e1d3b0c6f3e53a2d2325b82462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\alipaysecsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysecsdk_4eba990f0d932bea078ff10437fd2eedb532eb41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dc2404654fc176dabd6a10a653a33608a18fe4a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8672b538a3e7a5629f5c2ce173533761f4344957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3299434a5ced5ea151e559adb4b840b16bfb94df">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.4_6dbbeb390a3c03f8a4a384136c480f7124d74006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_actionbarview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b5e7ee41354c2956caab9c0acba1158df01e7f49">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_actionbarview_3502ae793977419d1c932f7af5e10d98c1ad6836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_pocket.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9c14d3a3cb51ff3130b285fefdb40ab15fe1dbd">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_pocket_81bf996f61c105f30e73fd6b6da5824c2b6cba7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_renren_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="01397a3a91b34a77c85688d65a0027bd56469b37">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_renren_1_1f3f710cde3a4167f267359161a2e5afae2d66a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04dd32162912fc2bfe3a619bb1fc4034d89187ff">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_laiwang_1_db0e9302d9003707fb46535d044e7eb33aa7a7e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_yixin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ab67f141d00be37014d7d60eb24ba2d745af6ec">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_yixin_2_62aed246a1b12eb0f744aa3e1f81b2e16874faee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_pocket.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9c14d3a3cb51ff3130b285fefdb40ab15fe1dbd">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_pocket_81bf996f61c105f30e73fd6b6da5824c2b6cba7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_UserCenter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d107b572b9b1b0735a620f6eaa074d162c3cd1c4">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_UserCenter_8ae5568480bf9ab908ddbd3e10e1074c03b222bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_renren_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0458eaf94045cdfabc938f466753bbd4d19d63f9">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_renren_2_81274746d9ab606bf6922edb4a0719e2b6c431e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-collections-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="761ea405b9b37ced573d2df0d1e3a4e0f9edc668">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-collections-3.2.1_691086c798f5dbdf7180210931aa701ad3572e05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_1_b447c71c4c51caf8dc128895a5b1ea98ed491171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_UserCenter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d107b572b9b1b0735a620f6eaa074d162c3cd1c4">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_UserCenter_8ae5568480bf9ab908ddbd3e10e1074c03b222bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_pinterest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94ab148748cde362c8e416844ab9cbda7dcfb8b9">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_pinterest_aa97f391b09c3010bc6cf365f13ee38081c7968d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\Xg_sdk_v2.47_20161026_0936.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf805014c23dd47a70909310a7fc3acdfab4ac1b">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\Xg_sdk_v2.47_20161026_0936_0ed21868726db6dc3e36f4d23532692867ca2556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_linkedin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa343c7160dfeafcb0d715bb03d1314b454e11af">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_linkedin_b1eeece317952d27ec9e68086c3182d9c0ed92d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1eeca26611ca6e2fc3159b38be5d3b0ee3e3f386">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8672b538a3e7a5629f5c2ce173533761f4344957\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4f4e396e98d9df68e3e235ae9c3258e2dac5890a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_ef6f9ce9b4036851a5119ee4d0cf7cffe661e392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\alipaysdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b40481f01537a329936ce54ee2fe15ef2537f010">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysdk_58e6a02c535e25f752bd3f528374832731b3aac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04dd32162912fc2bfe3a619bb1fc4034d89187ff">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_laiwang_1_db0e9302d9003707fb46535d044e7eb33aa7a7e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\umeng-analytics-v5.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="800a39d34bf8db3de7e69bab3679d555114f858d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\umeng-analytics-v5.4.2_6e43aad5f4edaaf9fde0927cf4bf9278eb916ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab78ed461deab5206c4cac6bbcf60e6d963cfd85">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\classes_66a8f9a93ff8c0a4674b944e95af3786a61606e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_whatsapp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a378baa7bc3d1ece09830e440c3dd998b280dc18">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_whatsapp_f06251084f02d91fea2469d3719d6a94a55c96a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_aca3814c20dab17bfcf3d40763f7de77c80a6f96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6986dec9fc940599f6557c73866d04fe329e2e92">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.3-with-sources_fa542842abe4808c4b1d5d4d589b252707d031aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4f4e396e98d9df68e3e235ae9c3258e2dac5890a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_ef6f9ce9b4036851a5119ee4d0cf7cffe661e392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_scrshot.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9fed473367d3c37d2bed63fd5c7c1567cf47b9aa">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_scrshot_09c444bcca82a6c8d10abac8319b62bf4b11f890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b029f9e54d8639614528d0c55ca403f4431d7515">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_3_0ac2aa8655716bd6dea62025143da5a8b8d5e330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26acc65a136a164cf1d6c0c793d425a9ac67bbb2">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_laiwang_2_62ed8e4627a61abe145463bca39085cb70feba29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_instagram.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5555c149deb6f984acbbd33f2b07ad0a4840e1f9">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_instagram_990b3c58e10eec22d86de3af6560f84ccb18374b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6986dec9fc940599f6557c73866d04fe329e2e92">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.3-with-sources_fa542842abe4808c4b1d5d4d589b252707d031aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\ezmorph-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01e55d2a0253ea37745d33062852fd2c90027432">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\ezmorph-1.0.6_b724817200c417fb83f6c68ba4d8bd592cfcadb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_email.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cdca70b4904756109378cf3230e9878d60478a3">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_email_e93fd46acdabef7ea8445d92b3d55b599698bf3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_flickr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7533e58a8dc0571d39cb1c0a0dd240606e6c041e">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_flickr_42d2e00c82890c3a313b2f3c02bea371199cd320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-logging.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f029a2aefe2b3e1517573c580f948caac31b1056">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging_3f4fda6590faa8af92b18c8566f0dd9de25681bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_kakao.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e2c45d0f054a45d5564e73b540cdd2f24b78488a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_kakao_94ac2352888a2769c6c0ec6a4ff8d641861c8fbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\mid-sdk-2.20.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0822bf00661a83ba2fab32214c70cc50a244a0a3">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\mid-sdk-2.20_2c9857381eced0b8ee7724ae6f3f763cf3f7dc6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d09723135a23f1377cf48cc716542f7e7e135ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_ynote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62ac92e6241e1cd4f4bb3d12fc5eed60296a432">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_ynote_83ee86e2210a5f9b136454676ccb38dee4da08bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_linkedin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa343c7160dfeafcb0d715bb03d1314b454e11af">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_linkedin_b1eeece317952d27ec9e68086c3182d9c0ed92d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_email.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cdca70b4904756109378cf3230e9878d60478a3">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_email_e93fd46acdabef7ea8445d92b3d55b599698bf3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-2.4.0_01ae00b15518b51b591ca739d96d72e129e2eb66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26acc65a136a164cf1d6c0c793d425a9ac67bbb2">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_laiwang_2_62ed8e4627a61abe145463bca39085cb70feba29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\mid-sdk-2.20.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0822bf00661a83ba2fab32214c70cc50a244a0a3">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\mid-sdk-2.20_2c9857381eced0b8ee7724ae6f3f763cf3f7dc6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_line.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="425cf9eded283121242f4879c429019ea745694d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_line_6518452957b044f12d0036a01d0fc280ddf00c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_facebook_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f89e30ef398a30f7a37665f9602e8c5d58785dd">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_facebook_2_95be3f5d670fe71c868851746101a31a76995f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_cdd1e8b778133341ff3593db7fef1b001e6ca3ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_shake.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34e94b3100ce4546b907460e725f9eeb13847c96">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_shake_a9fe8fec6454bc7498fc439354404c95d644c129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_yixin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1844f7973bc0c8b5c65eb8091373d9d53f225ba">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_yixin_1_89f98385276cb34ff0ae7ac747b87f0ef076aa04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_1_b447c71c4c51caf8dc128895a5b1ea98ed491171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_foursquare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a5e2e86becf58baaea05cc5f48f45e67ba77ddff">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_foursquare_e098b29b5a934aff4e6c821e961617cec841986e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\Xg_sdk_v2.47_20161026_0936.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf805014c23dd47a70909310a7fc3acdfab4ac1b">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\Xg_sdk_v2.47_20161026_0936_0ed21868726db6dc3e36f4d23532692867ca2556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_kakao.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2c45d0f054a45d5564e73b540cdd2f24b78488a">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_kakao_94ac2352888a2769c6c0ec6a4ff8d641861c8fbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\wup-1.0.0-SNAPSHOT_20f621c2655030b8199f36138ed5568d5d702eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\alipaysdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b40481f01537a329936ce54ee2fe15ef2537f010">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\alipaysdk_58e6a02c535e25f752bd3f528374832731b3aac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d09723135a23f1377cf48cc716542f7e7e135ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_instagram.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5555c149deb6f984acbbd33f2b07ad0a4840e1f9">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_instagram_990b3c58e10eec22d86de3af6560f84ccb18374b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="301e43b22403ab47eab75a8ecdff80d697bc9289">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_c5bf2de373f5f96167a608e778947717700683d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_comment.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55d5805a0839ecb06e81bf1267b1e4df5ff7d0b1">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_comment_86aa847544dcf443d2bec7b4046c4d4e3462dded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\qiniu-android-sdk-7.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7111ff719c8a78a6783e67a68732ed40ea4e8423">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\qiniu-android-sdk-7.0.3_61651c207c1b28d83e071a5f84c4b054e2b4c41a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-lang.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88e4f55dc4ac425bb562b5933dae6440ccf91c87">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-lang_e57fdacfa1e40a7430b6b5f48f446ddb2352f812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_yixin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1844f7973bc0c8b5c65eb8091373d9d53f225ba">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_yixin_1_89f98385276cb34ff0ae7ac747b87f0ef076aa04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\umeng-analytics-v5.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="800a39d34bf8db3de7e69bab3679d555114f858d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\umeng-analytics-v5.4.2_6e43aad5f4edaaf9fde0927cf4bf9278eb916ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62e48ad4e1896519cdffc181d5f3c612c7d7b37d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_2_ec7a5371c5be8fbd2aad53d142a14a27e5543ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_evernote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1f72e82a3cf55f3e4486e0e8f606879e979d547e">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_evernote_a4b58b037374e7681b5cd7cb17f1a69ad986128c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a9c524f29673bfede1442cb340f72ef9912020ce">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_1_99c9532b2a82e077da136c19d61873d61208bc80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tumblr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7266caed2ced137430958ea8093993bbe5738a3d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tumblr_0c758747c3a1b3132df2e01d6bf232c39e57b6ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_facebook_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="80ff87d138ae32cfe473b786851e78a841933a82">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_facebook_1_a8cfa78b1d202e69a833b80443fcef461f49d348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9c524f29673bfede1442cb340f72ef9912020ce">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_1_99c9532b2a82e077da136c19d61873d61208bc80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_comment.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="55d5805a0839ecb06e81bf1267b1e4df5ff7d0b1">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_comment_86aa847544dcf443d2bec7b4046c4d4e3462dded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2ac3efd88d8c64a8d4c2cbfbd8e6eaebbf9f5f5e">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_196d4d2ab770137efb6f19cc769e1920bf42a24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\appcompat_v7\unspecified\jars\libs\android-support-v7-appcompat.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7c13756ce58c0d0ee11316eb759ff492d89d08a3">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\android-support-v7-appcompat_86eef5d492e94661c519e1dfb727d3362b475ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="62e48ad4e1896519cdffc181d5f3c612c7d7b37d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tencentWB_2_ec7a5371c5be8fbd2aad53d142a14a27e5543ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_tumblr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7266caed2ced137430958ea8093993bbe5738a3d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_tumblr_0c758747c3a1b3132df2e01d6bf232c39e57b6ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_pinterest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94ab148748cde362c8e416844ab9cbda7dcfb8b9">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_pinterest_aa97f391b09c3010bc6cf365f13ee38081c7968d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_facebook_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0f89e30ef398a30f7a37665f9602e8c5d58785dd">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_facebook_2_95be3f5d670fe71c868851746101a31a76995f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_line.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="425cf9eded283121242f4879c429019ea745694d">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_line_6518452957b044f12d0036a01d0fc280ddf00c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\libs\commons-lang.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88e4f55dc4ac425bb562b5933dae6440ccf91c87">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\2\commons-lang_e57fdacfa1e40a7430b6b5f48f446ddb2352f812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\sccp_library\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\nineoldandroids-2.4.0_01ae00b15518b51b591ca739d96d72e129e2eb66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yisai\yisai\build\intermediates\exploded-aar\yisai\umeng_social_library\unspecified\jars\libs\SocialSDK_AtFriends.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c43d5b87ee29dc2179e9b46877cc2ace4ef96b63">
+        <dex dex="E:\yisai\yisai\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_AtFriends_6d7623a4c44aef6dc70cd90b213ec030661a7f55\classes.dex" />
+    </item>
+
+</items>

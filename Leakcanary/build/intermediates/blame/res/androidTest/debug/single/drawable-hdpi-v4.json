@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\__leak_canary_icon.png",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\__leak_canary_icon.png"
+    },
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\__leak_canary_notification.png",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\__leak_canary_notification.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\__leak_canary_icon.png",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\__leak_canary_icon.png"
+    },
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4\\__leak_canary_notification.png",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\__leak_canary_notification.png"
+    }
+]

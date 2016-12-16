@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <declare-styleable name="BigTextTabButton"><attr format="reference|color" name="bigTextTabButtonBackground"/><attr format="color" name="unSelectedTextColor"/><attr format="dimension" name="unSelectedTextSize"/><attr format="color" name="selectedTextColor"/><attr format="dimension" name="selectedTextSize"/></declare-styleable>
+    <declare-styleable name="TabButton"><attr format="reference|color" name="buttonBackground"/><attr format="dimension" name="dividerSize"/><attr format="dimension" name="sliderSize"/><attr format="dimension" name="bottomLineSize"/><attr format="color" name="dividerColor"/><attr format="color" name="sliderColor"/><attr format="color" name="bottomLineColor"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/></declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <declare-styleable name="drop_down_list_attr"><attr format="boolean" name="isDropDownStyle"/><attr format="boolean" name="isOnBottomStyle"/><attr format="boolean" name="isAutoLoadOnBottom"/></declare-styleable>
+    <string name="app_name">SCCPLibrary</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

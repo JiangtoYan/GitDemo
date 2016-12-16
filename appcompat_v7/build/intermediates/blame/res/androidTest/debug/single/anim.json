@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\yisai\\appcompat_v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\yisai\\appcompat_v7\\build\\intermediates\\bundles\\debug\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\yisai\\appcompat_v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\yisai\\appcompat_v7\\build\\intermediates\\bundles\\debug\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\yisai\\appcompat_v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\yisai\\appcompat_v7\\build\\intermediates\\bundles\\debug\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\yisai\\appcompat_v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\yisai\\appcompat_v7\\build\\intermediates\\bundles\\debug\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\yisai\\appcompat_v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\yisai\\appcompat_v7\\build\\intermediates\\bundles\\debug\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\yisai\\appcompat_v7\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\yisai\\appcompat_v7\\build\\intermediates\\bundles\\debug\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

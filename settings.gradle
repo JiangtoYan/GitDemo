@@ -1,0 +1,6 @@
+include ':umeng_social_library'
+include ':pulltorefresh_library'
+include ':Leakcanary'
+include ':yisai'
+include ':sccp_library'
+include ':appcompat_v7'

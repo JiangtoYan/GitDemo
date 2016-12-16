@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\__leak_canary_ref_row.xml",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\layout\\__leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\__leak_canary_leak_row.xml",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\layout\\__leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\__leak_canary_display_leak.xml",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\layout\\__leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\yisai\\Leakcanary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\__leak_canary_ref_top_row.xml",
+        "source": "E:\\yisai\\Leakcanary\\build\\intermediates\\bundles\\debug\\res\\layout\\__leak_canary_ref_top_row.xml"
+    }
+]

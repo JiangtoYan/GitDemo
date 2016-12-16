@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\yisai\\umeng_social_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw550dp-large-v13\\umeng_socialize_post_share.xml",
+        "source": "E:\\yisai\\umeng_social_library\\build\\intermediates\\bundles\\debug\\res\\layout-sw550dp-large-v13\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "E:\\yisai\\umeng_social_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw550dp-large-v13\\umeng_socialize_titile_bar.xml",
+        "source": "E:\\yisai\\umeng_social_library\\build\\intermediates\\bundles\\debug\\res\\layout-sw550dp-large-v13\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "E:\\yisai\\umeng_social_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\yisai\\umeng_social_library\\build\\intermediates\\bundles\\debug\\res\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\yisai\\umeng_social_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw550dp-large-v13\\umeng_socialize_ucenter.xml",
+        "source": "E:\\yisai\\umeng_social_library\\build\\intermediates\\bundles\\debug\\res\\layout-sw550dp-large-v13\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "E:\\yisai\\umeng_social_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw550dp-large-v13\\umeng_socialize_full_alert_dialog.xml",
+        "source": "E:\\yisai\\umeng_social_library\\build\\intermediates\\bundles\\debug\\res\\layout-sw550dp-large-v13\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\yisai\\umeng_social_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw550dp-large-v13\\umeng_socialize_post_comment.xml",
+        "source": "E:\\yisai\\umeng_social_library\\build\\intermediates\\bundles\\debug\\res\\layout-sw550dp-large-v13\\umeng_socialize_post_comment.xml"
+    }
+]
